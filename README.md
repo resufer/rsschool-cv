@@ -1,1 +1,1 @@
-# rsschool-cv
+## https://resufer.github.io/rsschool-cv/cv
